@@ -1,0 +1,21 @@
+Student_ID,Gender,Study_Hours,Attendance,Previous_Score,Final_Score,Department
+1,Female,3,95,78,85,Computer Science
+2,Male,2,82,65,70,Mechanical
+3,Female,5,98,88,94,Computer Science
+4,Male,1,70,55,60,Civil
+5,Female,4,90,80,88,Electronics
+6,Male,3,85,72,76,Mechanical
+7,Female,6,99,91,97,Computer Science
+8,Male,2,75,60,65,Civil
+9,Female,4,92,83,89,Electronics
+10,Male,5,94,85,90,Computer Science
+11,Female,1,68,50,56,Civil
+12,Male,4,88,77,82,Mechanical
+13,Female,3,91,75,81,Electronics
+14,Male,6,97,89,95,Computer Science
+15,Female,2,80,62,68,Civil
+16,Male,3,86,70,74,Mechanical
+17,Female,5,96,87,93,Electronics
+18,Male,1,72,58,62,Civil
+19,Female,4,93,84,90,Computer Science
+20,Male,2,78,64,69,Mechanical
